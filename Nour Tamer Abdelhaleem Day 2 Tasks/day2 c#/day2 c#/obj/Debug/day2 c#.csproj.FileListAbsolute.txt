@@ -1,0 +1,7 @@
+C:\Users\DEll\Source\Repos\day2 c#\day2 c#\bin\Debug\day2 c#.exe.config
+C:\Users\DEll\Source\Repos\day2 c#\day2 c#\bin\Debug\day2 c#.exe
+C:\Users\DEll\Source\Repos\day2 c#\day2 c#\bin\Debug\day2 c#.pdb
+C:\Users\DEll\Source\Repos\day2 c#\day2 c#\obj\Debug\day2 c#.csproj.AssemblyReference.cache
+C:\Users\DEll\Source\Repos\day2 c#\day2 c#\obj\Debug\day2 c#.csproj.CoreCompileInputs.cache
+C:\Users\DEll\Source\Repos\day2 c#\day2 c#\obj\Debug\day2 c#.exe
+C:\Users\DEll\Source\Repos\day2 c#\day2 c#\obj\Debug\day2 c#.pdb
